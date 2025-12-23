@@ -44,6 +44,8 @@ This ensemble leveraged the strengths of each model to improve predictive perfor
 
 ---
 
+<br>
+
 ## 🫀 Mitral Valve Segmentation from Echocardiography
 
 We decided to undertake **state-of-the-art supervised methodologies**. More specifically, we developed a **U-Net–based segmentation pipeline**.
